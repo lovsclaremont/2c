@@ -1,3 +1,18 @@
+
+header{
+    background-color:#84A6FF;
+    color: #0E029A ;
+}
+.titulo {
+    align-items: center;
+}
+.estudante {
+    align-items: start;
+}
+.turma {
+    align-items: end;
+}
+
 header{
        background-color:#84A6FF;
           color: #0E029A ;
