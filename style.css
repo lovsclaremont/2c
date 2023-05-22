@@ -8,10 +8,18 @@ header{
     padding: 24 px 0;
  }
 .cabecalho-imagem {
-    width: 10%;
+    width: 15%;
 }
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0%;
-    font-size:24px;
+    margin: 0 16px;
+    font-size:20px;
+}
+
+.escola-imagem {
+    width: 25%;
+}
+
+.escola {
+    background-image: linear-gradient(#424E61,#16CFF8);
 }
