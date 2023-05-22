@@ -3,3 +3,16 @@ header{
     background-color:#84A6FF;
     color: #0E029A ;
 }
+.display:flex {
+    justify-content:space-aroud;
+    align-items:center;
+    padding: 24 px 0;
+ }
+.cabecalho-imagem{
+    width: 10%;
+}
+.cabecalho-lista-item{
+    display: inline-block
+    margin:0%;
+    font-size:24px;
+}
