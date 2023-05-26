@@ -1,4 +1,7 @@
-
+*{
+    margin:0%;
+    padding:0%;
+}
 header{
     background-color:#84A6FF;
     color: #0E029A ;
