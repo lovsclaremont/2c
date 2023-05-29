@@ -10,10 +10,10 @@ header{
     align-items: center;
     padding: 24px 0;
  }
-.cabeçalho-imagem {
+.cabecalho-imagem {
     width: 10%;
 }
-.cabeçalho-lista-item{
+.cabecalho-lista-item{
     display: inline-block;
     margin: 0% 16px;
     font-size:24px;
