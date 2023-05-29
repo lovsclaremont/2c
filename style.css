@@ -4,12 +4,13 @@
 }
 header{
     background-color:#84A6FF;
-    color: #0E029A ;
+    color: #0E029A; 
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
- }
+}
+
 .cabecalho-imagem {
     width: 10%;
 }
