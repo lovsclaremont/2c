@@ -14,7 +14,7 @@ header{
 .cabecalho-imagem {
     width: 10%;
 }
-.cabecalho-lista-item{
+.cabecalho-lista{
     display: inline-block;
     margin: 0% 16px;
     font-size:24px;
