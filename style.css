@@ -3,8 +3,8 @@
     padding:0%;
 }
 header{
-    background-color:#84A6FF;
-    color: #0E029A; 
+    background: color #84a6ff;
+    color: #0e029a;
     display: flex;
     justify-content: space-around;
     align-items: center;
