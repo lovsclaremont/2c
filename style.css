@@ -1,27 +1,28 @@
 *{
-    margin:0%;
-    padding:0%;
-}
-header{
-    background: color #84a6ff;
-    color: #0e029a;
+    margin: 0;
+    padding: 0;
+ }
+  
+ .cabecalho{
+    background-color:#84A6FF;
+    color: #3E6242;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items:center;
     padding: 24px 0;
-}
-
-.cabecalho-imagem {
-    width: 10%;
-}
-.cabecalho-lista{
-    display: inline-block;
-    margin: 0% 16px;
-    font-size:24px;
-}
-.escola-imagem {
+ }
+ 
+  .cabecalho-imagem {
+ width: 20%;
+   }
+ 
+   .cabecalho-lista-item{
+      display:inline-block;
+      margin: 0% 16px;
+      font-size: 24px;
+   }.escola-imagem {
     width: 10%;
 }
 .escola {
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#424E61,#84a6ff);
 }
