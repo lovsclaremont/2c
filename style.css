@@ -28,3 +28,50 @@ body {
    .escola-imagem {
     width: 0%;
 }
+*{
+    margin: 0;
+    padding: 0;
+ }
+  
+body {
+   font-family: 'DM Sans', sans-serif;
+}
+ .cabecalho{
+    background-color:#84A6FF;
+    color: #0e029a;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 24px 0;
+ }
+ 
+  .cabecalho-imagem {
+ width: 20%;
+   }
+ 
+   .cabecalho-lista-item{
+      display:inline-block;
+      margin: 0% 16px;
+      font-size: 24px;
+   }
+   .escola-imagem {
+    width: 0%;
+}
+
+.estudante-imagem {
+   width: 120px;
+}
+
+.estudante-div {
+   align-items: center;
+}
+
+.estudante-titulo {
+   text-align: center;
+   padding: 50px 0;
+}
+
+.estudantes-todos {
+   display: grid;
+   grid-template-columns: 20% 20% 20% 20% 20% 20% 20% 20% 20% 20%;
+}
